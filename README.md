@@ -1,7 +1,7 @@
 # Leeds-Butterfly-Image-Classification
 Data Science Course Project 
 
-Description:
+Description:<br/>
 Classification of ten butterfly species from the Leeds butterfly dataset with VGG16+CNN.
 
 Dataset:
